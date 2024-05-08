@@ -1267,12 +1267,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xterm/addon-fit@npm:^0.9.0":
-  version: 0.9.0
-  resolution: "@xterm/addon-fit@npm:0.9.0"
+"@xterm/addon-fit@npm:^0.10.0":
+  version: 0.10.0
+  resolution: "@xterm/addon-fit@npm:0.10.0"
   peerDependencies:
     "@xterm/xterm": ^5.0.0
-  checksum: 2417b3f9a6e2cd671aac179df6d71570aed81f27a9e4fa704a7af002dc754dce7a8f28c9d7d5865d79b4ae45c3be099ea0aa8cac6bd093dd5cd56ad883d81800
+  checksum: 8edfad561c0d0316c5883cbe2ce56109f105a2b2bf53b71d5f8c788e656a3205c1093a659dddcf4025a459e4b7ff8e07b6c6a19815c8711deeded560de5f1893
   languageName: node
   linkType: hard
 
@@ -10475,7 +10475,7 @@ __metadata:
   dependencies:
     "@typescript-eslint/eslint-plugin": ^7.1.1
     "@xterm/addon-canvas": ^0.6.0
-    "@xterm/addon-fit": ^0.9.0
+    "@xterm/addon-fit": ^0.10.0
     "@xterm/addon-image": ^0.7.0
     "@xterm/addon-unicode11": ^0.7.0
     "@xterm/addon-web-links": ^0.10.0
