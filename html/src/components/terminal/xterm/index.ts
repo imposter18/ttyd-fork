@@ -49,6 +49,7 @@ export interface ClientOptions {
     isWindows: boolean;
     trzszDragInitTimeout: number;
     unicodeVersion: string;
+    disableReconnect: boolean;
 }
 
 export interface FlowControl {

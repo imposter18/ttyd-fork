@@ -13,6 +13,7 @@ const clientOptions = {
     rendererType: 'webgl',
     disableLeaveAlert: false,
     disableResizeOverlay: false,
+    disableReconnect: true,
     enableZmodem: false,
     enableTrzsz: false,
     enableSixel: false,
