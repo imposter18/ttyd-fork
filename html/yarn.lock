@@ -9181,9 +9181,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass-loader@npm:^14.1.1":
-  version: 14.1.1
-  resolution: "sass-loader@npm:14.1.1"
+"sass-loader@npm:^15.0.0":
+  version: 15.0.0
+  resolution: "sass-loader@npm:15.0.0"
   dependencies:
     neo-async: ^2.6.2
   peerDependencies:
@@ -9203,7 +9203,7 @@ __metadata:
       optional: true
     webpack:
       optional: true
-  checksum: 56b2d1018d33c91d1c62b195ba62e31a2c03e1e304403ac69e3434413f601400a009e238e3d2d2b705949bd559cd537ba3d165c9ab338950f6e8d83dd92d3d60
+  checksum: caa5f420fd278929f80a9d230ca86a86a146c1c055e7040da6c6b86b54dc9e14bab10ffdfff85b2dbfa2f7ba81e65a5d436772018ce0e5173446bfb0493e84dd
   languageName: node
   linkType: hard
 
@@ -10500,7 +10500,7 @@ __metadata:
     mini-css-extract-plugin: ^2.8.1
     preact: ^10.19.6
     sass: ^1.71.1
-    sass-loader: ^14.1.1
+    sass-loader: ^15.0.0
     scssfmt: ^1.0.7
     style-loader: ^3.3.4
     terser-webpack-plugin: ^5.3.10
